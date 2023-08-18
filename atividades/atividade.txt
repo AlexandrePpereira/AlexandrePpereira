@@ -1,0 +1,43 @@
+FATORIAL
+
+function fatorial(numero){
+    if (numero === 0 || numero === 1) {
+        return 1
+    } else {
+        return numero * fatorial (numero - 1);
+    }
+    }
+    const numero = 5;
+    const resultado = fatorial(numero);
+    console.log(`o fatorial de ${numero} é ${resultado}`);
+
+
+
+PAR E IMPAR
+
+function parImpar (numero){
+    if(numero % 2 == 0){
+        return "par"
+    }
+    else{
+        return "impar"
+    }
+}
+
+console.log(parImpar(5))
+
+
+PRIMO
+
+
+
+function numeroPrimo(num) {
+    for (var i = 2; i < num; i++) {
+      if(num % i === 0) {
+         return false;
+      }
+    }
+    return num !== 1;  
+  }
+  console.log( numeroPrimo(5) );
+
