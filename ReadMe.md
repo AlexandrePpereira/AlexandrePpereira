@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Alexandre e tenho 16 anos.<br>Adoro atividades físicas, mas as minhas preferidas são o futebol e <br>a academia.<br>Entrei no mundo da programação há 5 meses, estou em aprendizado.
+Meu nome é Alexandre e tenho 16 anos.<br>Adoro atividades físicas, mas as minhas preferidas são o futebol e <br>a academia.<br>Entrei no mundo da programação há 11 meses, estou em aprendizado.
 
 
 # 💻 Tech Stack:
